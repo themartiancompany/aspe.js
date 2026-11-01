@@ -1,10 +1,10 @@
 {
   "name":
-    "git-user-repository",
+    "sissystemd",
   "version":
-    "0.0.1",
+    "0.0.0",
   "description":
-    "Fallback User Repository (fur).",
+    "Devices power control tool.",
   "funding": {
     "type":
       "patreon",
@@ -12,7 +12,7 @@
       "https://patreon.com/tallero"
   },
   "man":
-    "./man/tmcsplit.1",
+    "./man/powerctl.1",
   "files": [
     "AUTHORS.rst",
     "COPYING",

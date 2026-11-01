@@ -1,7 +1,7 @@
 [submodule "man"]
 	path = man
-	url = https://github.com/themartiancompany/tmcsplit-man
+	url = https://github.com/themartiancompany/powerctl-man
 [submodule "bash"]
 	path = bash
-	url = https://github.com/themartiancompany/fur
+	url = https://github.com/themartiancompany/powerctl
 	branch = main
