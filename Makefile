@@ -27,7 +27,7 @@
 _NPM ?= false
 SHELL ?= bash
 PREFIX ?= /usr/local
-_PROGRAM=evm-chains-explorers
+_PROGRAM=aspe
 _PROJECT_NPM=$(_PROGRAM)
 _PROJECT=$(_PROGRAM).js
 _NAMESPACE=themartiancompany
